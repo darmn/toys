@@ -1,0 +1,1 @@
+/home/afl/AZScanner/AZscanner/web/web/urls_to_sqlmapapi.py
